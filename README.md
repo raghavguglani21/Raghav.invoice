@@ -44,13 +44,13 @@ Smart-Invoice-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smart-invoice-generator.git
+git clone https://github.com/yourusername/Raghav.invoice.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd smart-invoice-generator
+cd Raghav.invoice
 ```
 
 Install dependencies:
