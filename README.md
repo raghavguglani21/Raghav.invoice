@@ -44,7 +44,7 @@ Smart-Invoice-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Raghav.invoice.git
+git clone https://github.com/raghavguglani21/Raghav.invoice.git
 ```
 
 Move into the project folder:
